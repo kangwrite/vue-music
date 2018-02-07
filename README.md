@@ -16,3 +16,6 @@
 
 需要研究一下vue的热更新机制
 
+2018.02.07
+eslint 对空格和缩进的严格限制，修改webpack.base.conf.js,注释掉其中eslint的规则方法
+
