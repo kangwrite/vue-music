@@ -12,10 +12,12 @@
 中途出错一次，查看npm-debug.log,重试一次以后成功，成功使用http://127.0.0.1:8081/#/ 访问vue项目
 
 2018.02.06
+
 项目主要资源在src路径下，需要通过npm安装stylus、stylus-loader，同时注意es6写法，注意空格，主要看编译时的报错
 
 需要研究一下vue的热更新机制
 
 2018.02.07
+
 eslint 对空格和缩进的严格限制，修改webpack.base.conf.js,注释掉其中eslint的规则方法
 
